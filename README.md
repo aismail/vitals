@@ -23,7 +23,7 @@ The file formats are quite obvious.
 
 * first column is always a human-readable date
 * second column is a UNIX timestamp
-* columns 3, 4, 5 represent sleep or steps data. For sleep it's 0/1 because it\'s whether the device detected that I\'m sleeping or not. I over-simplified that on purpose to avoid complicated stuff like sleep phase comparison.
+* columns 3, 4, 5 represent sleep or steps data. For sleep it's 0/1 because it's whether the device detected that I'm sleeping or not. I over-simplified that on purpose to avoid complicated stuff like sleep phase comparison.
 
 Did you try to correlate this data?
 ===================================
