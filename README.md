@@ -7,7 +7,7 @@ March 2014.
 __Who am I?__ I'm [Andrei Ismail](https://twitter.com/aismail85), a software engineer from
 Bucharest/Romania who is extremely passionate about wearables and sensors.
 
-__What is this?__ Since March 2014, I\'ve been wearing 3 devices all the time (well, almost).
+__What is this?__ Since March 2014, I've been wearing 3 devices all the time (well, almost).
 BodyMedia on my upper left arm, FitBit on my left wrist and Jawbone on my right wrist.
 
 There are numerous comparisons floating around on the internet, but no data to play around
