@@ -41,6 +41,7 @@ Caveats:
 * I've used two periods for each pair of sensors - all March, and excluding 1st and 2nd. This is because on those 2 days, I was flying across timezones and the devices were not configured correctly.
 * On Monday, Wednesday and Friday I usually go to Qwan Ki Do training between 20.30 and 22.00. During that interval, I only wear the BodyMedia sensor (thus you will see big differences in there)
 * For sleep, the most granular resolution is per minute, while for steps it's per hour. This is the best I could do to pull the data using everything at hand (even scraping results)
+* For Jawbone, in about 50% of the nights I forgot to press the "sleep mode" button, thus I got no sleep analysis. Really annoying!
 
 Correlation results
 ===================
