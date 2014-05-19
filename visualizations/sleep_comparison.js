@@ -67,7 +67,7 @@ $.get('../2014_march_sleep.csv', function(data) {
 
             series: [{
                 type: 'area',
-                name: 'Slept (0/1)',
+                name: 'BodyMedia Slept (0/1)',
                 pointInterval: 60 * 1000,
                 pointStart: Date.UTC(2014, 02, 01),
                 data: window.bodymedia.slice(0, 44580)
@@ -127,7 +127,7 @@ $.get('../2014_march_sleep.csv', function(data) {
 
             series: [{
                 type: 'area',
-                name: 'Slept (0/1)',
+                name: 'Jawbone Slept (0/1)',
                 pointInterval: 60 * 1000,
                 pointStart: Date.UTC(2014, 02, 01),
                 data: window.jawbone.slice(0, 44580)
@@ -187,7 +187,7 @@ $.get('../2014_march_sleep.csv', function(data) {
 
             series: [{
                 type: 'area',
-                name: 'Slept (0/1)',
+                name: 'FitBit Slept (0/1)',
                 pointInterval: 60 * 1000,
                 pointStart: Date.UTC(2014, 02, 01),
                 data: window.fitbit.slice(0, 44580)
